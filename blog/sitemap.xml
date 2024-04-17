@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-04-17T08:08:39-00:00</lastmod>
+<lastmod>2024-04-17T08:35:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-04-17T08:08:39-00:00</lastmod>
+<lastmod>2024-04-17T08:35:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-04-17T08:08:39-00:00</lastmod>
+<lastmod>2024-04-17T08:35:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-04-17T08:08:39-00:00</lastmod>
+<lastmod>2024-04-17T08:35:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2024-04-17T08:05:05+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w9-41123235.html</loc>
+<lastmod>2024-04-17T08:32:54+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -109,6 +116,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/w9-41123235.html</loc>
+<lastmod>2024-04-18T14:02:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/qi-zhong-zheng-he-41123235.html</loc>
+<lastmod>2024-04-18T14:02:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/wang-zhi-bian-xie-41123235.html</loc>
 <lastmod>2024-04-17T08:08:28+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -117,7 +138,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/41123235.html</loc>
-<lastmod>2024-04-17T08:08:28+08:06</lastmod>
+<lastmod>2024-04-18T14:02:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
