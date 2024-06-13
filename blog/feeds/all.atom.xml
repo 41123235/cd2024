@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123235協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T07:11:02+08:00</updated><entry><title>w9網誌</title><link href="./w9-41123235.html" rel="alternate"></link><published>2024-04-18T14:02:00+08:00</published><updated>2024-06-13T07:08:24+08:00</updated><author><name>41123235</name></author><id>tag:None,2024-04-18:./w9-41123235.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123235協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T07:16:21+08:00</updated><entry><title>w9網誌</title><link href="./w9-41123235.html" rel="alternate"></link><published>2024-04-18T14:02:00+08:00</published><updated>2024-06-13T07:08:24+08:00</updated><author><name>41123235</name></author><id>tag:None,2024-04-18:./w9-41123235.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -307,4 +307,23 @@ doc["threejsblock"].bind("click", threejsblock.do)
 從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排
 並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點
 ODOO, NX, Sourcetree, Github and Replit
-利用 ODOO PLM, Siemens NX, Sourcetree, Github 分組倉儲與 Replit 打造協同產品開發環境。&lt;/p&gt;</content><category term="w6 41123235"></category><category term="網誌編寫 41123235"></category></entry></feed>
+利用 ODOO PLM, Siemens NX, Sourcetree, Github 分組倉儲與 Replit 打造協同產品開發環境。&lt;/p&gt;</content><category term="w6 41123235"></category><category term="網誌編寫 41123235"></category></entry><entry><title>w7網誌</title><link href="./w7-41123235.html" rel="alternate"></link><published>2024-02-18T14:02:00+08:00</published><updated>2024-06-13T07:16:21+08:00</updated><author><name>41123235</name></author><id>tag:None,2024-02-18:./w7-41123235.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;第七週&lt;/h1&gt;
+&lt;p&gt;協同產品設計實習的第七週, 正值春假期間, 用來回顧課程內容重點.分組網站內容的協同
+各分組網站內容的協同包含:&lt;/p&gt;
+&lt;p&gt;章節式網站內容
+週記式網誌內容
+網際簡報內容
+分組零組件設計的協同
+這是一個用於四對四個 robot 足球員的競技場, 希望利用 Solvespace 與 Siemens NX 建立能夠踢球進足球門, 並且能挑射球進對手籃球框得分的 robot 球員, 相關尺寸規格如下: 球場參考規格:競技球: 白色, 直徑 0.1m, 重量 0.5kg場地: 長 4m x 寬 2.5m, 外圍以足夠高度之隱形柵欄區隔足球門: 長 0.6m, 高 0.3m, 寬 0.1m籃板: 長 0.3m, 高 0.3m, 寬 0.1m, 位於足球門上方中央籃框: 由籃板向場內距離 0.1m, 內徑 0.2m, 框管直徑 0.02球員尺寸範圍: 長寬高各 0.2m, 重量 5kg, 請問你會如何設計這樣的一組 robot 球員?
+因為 robot 球員機構零組件設計完成後, 需要轉檔進入 CoppeliaSim 完成模擬場景, 且將利用 ZMQ Remote API python 進行後續的球員競技控制, 針對這樣的配置, 你會如何建議?
+我們想要用最簡單有效的 robot 球員設計, 你有甚麼建議?
+假如藉由四輪車前方的撞擊板角度調整, 來推球或將球挑起進行達到踢球與挑球入籃框的動作, 是否合宜, 請協助評估!
+不然, 你還有甚麼容易實現的踢球與挑球機構可供參考?
+cd2024 的鋼球平衡台控制系統擬採用 Solvespace 與 Siemens 繪製, 預計將系統中所需的零組件分別由子模組中的倉儲 downloads 目錄進行儲存, 各組員可以在 Windows 環境完成零件繪圖後, 放入各組員課程倉儲中的 downloads 目錄後, 再統一從分組倉儲 downloads 目錄中的組立檔案引用.&lt;/p&gt;
+&lt;p&gt;過程中再依照相同尺寸與架構規劃, 以隨身碟中的 Siemens NX1872.7z (需要登入 @nfu.edu.tw 後下載) 連網取得授權後進行繪製, 也可採用電腦輔助設計室所安裝的 NX1872 完成繪製.&lt;/p&gt;
+&lt;p&gt;利用 NX 繪製零件過程, 開啟 NXOpen Python Journal 程式的錄製後, 從中擷取設計參數以便在之後的 ECO (Engineering Change Order) 流程中透過參數調控取得新的零組件.&lt;/p&gt;
+&lt;p&gt;以下為 NXOpen Python 的範例程式 (nxopen_block.py, 零件檔案: block.prt):&lt;/p&gt;</content><category term="w7 41123235"></category><category term="網誌編寫 41123235"></category></entry></feed>
