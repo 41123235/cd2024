@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123235協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T07:34:20+08:00</updated><entry><title>w9網誌</title><link href="./w9-41123235.html" rel="alternate"></link><published>2024-04-18T14:02:00+08:00</published><updated>2024-06-13T07:08:24+08:00</updated><author><name>41123235</name></author><id>tag:None,2024-04-18:./w9-41123235.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123235協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T07:38:57+08:00</updated><entry><title>w9網誌</title><link href="./w9-41123235.html" rel="alternate"></link><published>2024-04-18T14:02:00+08:00</published><updated>2024-06-13T07:08:24+08:00</updated><author><name>41123235</name></author><id>tag:None,2024-04-18:./w9-41123235.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -330,7 +330,19 @@ W10 起 Replit 已經可以用來維護分組倉儲
 
 &lt;h1&gt;第十一週&lt;/h1&gt;
 &lt;p&gt;利用 NX 1872 繪製鋼球平衡台所需的零組件.影片說明如何在個人或各組完成階段性改版之前, 先透過獨立分支進行資料改版提交與推送, 等個人階段性版本確定後, 再與分組分支合併, 最後各組的階段性版本再與建立網頁的主分支進行合併.影片說明如何設定 Siemens NX Journal 存檔格式, 並且利用 NXOpen 程式分別執行建立 block 與挖孔 (透過錄製 Journal 程式產生)後, 請設法將兩個程式合併為一個程式, 可以直接完成建立一個 block 並在其特定面上挖孔.
-d2024 協同產品設計實習課程專案的內容, 主要延續 CAD2023 課程重點, 然後再透過分組, 利用 Odoo PLM 相關文獻閱讀與應用作為協同產品開發流程的參考, 實際進行鋼球平衡台與綜合球賽機器人模擬系統的協同設計.&lt;/p&gt;</content><category term="w11 41123235"></category><category term="網誌編寫 41123235"></category></entry><entry><title>w5網誌</title><link href="./w5-41123235.html" rel="alternate"></link><published>2024-02-18T14:02:00+08:00</published><updated>2024-06-13T06:43:53+08:00</updated><author><name>41123235</name></author><id>tag:None,2024-02-18:./w5-41123235.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+d2024 協同產品設計實習課程專案的內容, 主要延續 CAD2023 課程重點, 然後再透過分組, 利用 Odoo PLM 相關文獻閱讀與應用作為協同產品開發流程的參考, 實際進行鋼球平衡台與綜合球賽機器人模擬系統的協同設計.&lt;/p&gt;</content><category term="w11 41123235"></category><category term="網誌編寫 41123235"></category></entry><entry><title>w12網誌</title><link href="./w12-41123235.html" rel="alternate"></link><published>2024-02-18T14:02:00+08:00</published><updated>2024-06-13T07:38:57+08:00</updated><author><name>41123235</name></author><id>tag:None,2024-02-18:./w12-41123235.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;第十二週&lt;/h1&gt;
+&lt;p&gt;協同產品設計實習第十二週實習操作, 各學員利用 NX 1872 繪製鋼球平衡台所需的零組件, 將各分組倉儲設為評分倉儲的子模組, 跨網路操控模擬場景裝置.
+NXOpen 實習項目一
+以下影片說明如何設定 Siemens NX Journal 存檔格式, 並且利用 NXOpen 程式分別執行建立 block 與挖孔 (透過錄製 Journal 程式產生)後, 請設法將兩個程式合併為一個程式, 可以直接完成建立一個 block 並在其特定面上挖孔.
+實習任務一: 請參考上列教學影片與參考程式, 將鋼球平衡台零組件的繪製與組立任務分配給組員, 由組員分別繳交至少一份零件繪製的 NXOpen Python 程式, 以及至少一份零件組立的 NXOpen Python 程式, 完成後, 請在個人的課程網誌紀錄 w12 實習任務一的執行心得.&lt;/p&gt;
+&lt;p&gt;將各分組倉儲設為評分倉儲的子模組
+實習任務二: 將分組倉儲設為評分網站子模組
+cd2023 足球機器人網際場景模擬
+實習任務三: 跨網路操控足球機器人進行競技&lt;/p&gt;</content><category term="w12 41123235"></category><category term="網誌編寫 41123235"></category></entry><entry><title>w5網誌</title><link href="./w5-41123235.html" rel="alternate"></link><published>2024-02-18T14:02:00+08:00</published><updated>2024-06-13T06:43:53+08:00</updated><author><name>41123235</name></author><id>tag:None,2024-02-18:./w5-41123235.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
