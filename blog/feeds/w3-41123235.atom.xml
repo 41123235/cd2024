@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123235協同產品設計 - w3 41123235</title><link href="./" rel="alternate"></link><link href="./feeds/w3-41123235.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T06:43:53+08:00</updated><entry><title>w3網誌</title><link href="./w3-41123235.html" rel="alternate"></link><published>2024-02-18T14:26:00+08:00</published><updated>2024-06-13T06:43:53+08:00</updated><author><name>41123235</name></author><id>tag:None,2024-02-18:./w3-41123235.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123235協同產品設計 - w3 41123235</title><link href="./" rel="alternate"></link><link href="./feeds/w3-41123235.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T06:54:17+08:00</updated><entry><title>w3網誌</title><link href="./w3-41123235.html" rel="alternate"></link><published>2024-02-18T14:26:00+08:00</published><updated>2024-06-13T06:54:17+08:00</updated><author><name>41123235</name></author><id>tag:None,2024-02-18:./w3-41123235.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;h1&gt;第三週&lt;/h1&gt;</content><category term="w3 41123235"></category><category term="網誌編寫 41123235"></category></entry></feed>
+&lt;h1&gt;第三週&lt;/h1&gt;
+&lt;p&gt;協同產品設計實習的第三週, 主要說明如何善用 Github Codespaces 與 Gitpod, 以及將組員倉儲設為分組倉儲的子模組, 同時導入 LaTeX 轉 pdf 機制, 啟動期中分組報告的製作.期中協同分組報告，有關 Codespaces 使用&lt;/p&gt;</content><category term="w3 41123235"></category><category term="網誌編寫 41123235"></category></entry></feed>
